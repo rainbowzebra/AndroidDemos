@@ -8,8 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Button01" />
             <option value="$PROJECT_DIR$/EditText01" />
             <option value="$PROJECT_DIR$/ImageView01" />
+            <option value="$PROJECT_DIR$/ListView01" />
             <option value="$PROJECT_DIR$/SeekBar01" />
             <option value="$PROJECT_DIR$/TextView01" />
             <option value="$PROJECT_DIR$/app" />
