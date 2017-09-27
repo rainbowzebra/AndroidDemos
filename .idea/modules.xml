@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/EditText01/EditText01.iml" filepath="$PROJECT_DIR$/EditText01/EditText01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TextButton01/TextButton01.iml" filepath="$PROJECT_DIR$/TextButton01/TextButton01.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView01/TextView01.iml" filepath="$PROJECT_DIR$/TextView01/TextView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
