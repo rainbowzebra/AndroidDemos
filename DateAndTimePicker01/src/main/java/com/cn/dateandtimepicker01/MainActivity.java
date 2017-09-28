@@ -2,16 +2,16 @@ package com.cn.dateandtimepicker01;
 
 import java.util.Calendar;
 import java.util.Locale;
-import android.app.Activity;
 import android.app.DatePickerDialog;
 import android.content.Context;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.Toast;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
     public int year;
     public int month;
     public int day;
