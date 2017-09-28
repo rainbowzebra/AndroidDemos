@@ -1,1 +1,1 @@
-include ':app', ':TextView01', ':EditText01', ':ImageView01', ':SeekBar01', ':Button01', ':ListView01', ':RecyclerView01'
+include ':app', ':TextView01', ':EditText01', ':ImageView01', ':SeekBar01', ':Button01', ':ListView01', ':RecyclerView01', ':AlertDialog01', ':ProgressDialog01'
