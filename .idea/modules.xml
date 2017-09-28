@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Button01/Button01.iml" filepath="$PROJECT_DIR$/Button01/Button01.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckBox01/CheckBox01.iml" filepath="$PROJECT_DIR$/CheckBox01/CheckBox01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker01/DateAndTimePicker01.iml" filepath="$PROJECT_DIR$/DateAndTimePicker01/DateAndTimePicker01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker02/DateAndTimePicker02.iml" filepath="$PROJECT_DIR$/DateAndTimePicker02/DateAndTimePicker02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker03/DateAndTimePicker03.iml" filepath="$PROJECT_DIR$/DateAndTimePicker03/DateAndTimePicker03.iml" />
       <module fileurl="file://$PROJECT_DIR$/EditText01/EditText01.iml" filepath="$PROJECT_DIR$/EditText01/EditText01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListView01/ListView01.iml" filepath="$PROJECT_DIR$/ListView01/ListView01.iml" />
