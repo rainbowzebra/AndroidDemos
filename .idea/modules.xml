@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/EditText01/EditText01.iml" filepath="$PROJECT_DIR$/EditText01/EditText01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListView01/ListView01.iml" filepath="$PROJECT_DIR$/ListView01/ListView01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" filepath="$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" filepath="$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" filepath="$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" filepath="$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
