@@ -13,12 +13,15 @@
             <option value="$PROJECT_DIR$/EditText01" />
             <option value="$PROJECT_DIR$/ImageView01" />
             <option value="$PROJECT_DIR$/ListView01" />
+            <option value="$PROJECT_DIR$/MediaPlayer01" />
             <option value="$PROJECT_DIR$/ProgressBar01" />
             <option value="$PROJECT_DIR$/ProgressBar02" />
             <option value="$PROJECT_DIR$/ProgressDialog01" />
             <option value="$PROJECT_DIR$/RecyclerView01" />
             <option value="$PROJECT_DIR$/SeekBar01" />
             <option value="$PROJECT_DIR$/TextView01" />
+            <option value="$PROJECT_DIR$/VideoView01" />
+            <option value="$PROJECT_DIR$/WebView01" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

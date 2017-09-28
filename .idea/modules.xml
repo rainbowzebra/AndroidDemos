@@ -8,12 +8,15 @@
       <module fileurl="file://$PROJECT_DIR$/EditText01/EditText01.iml" filepath="$PROJECT_DIR$/EditText01/EditText01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListView01/ListView01.iml" filepath="$PROJECT_DIR$/ListView01/ListView01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaPlayer01/MediaPlayer01.iml" filepath="$PROJECT_DIR$/MediaPlayer01/MediaPlayer01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" filepath="$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" filepath="$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" filepath="$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" filepath="$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView01/TextView01.iml" filepath="$PROJECT_DIR$/TextView01/TextView01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoView01/VideoView01.iml" filepath="$PROJECT_DIR$/VideoView01/VideoView01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebView01/WebView01.iml" filepath="$PROJECT_DIR$/WebView01/WebView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
