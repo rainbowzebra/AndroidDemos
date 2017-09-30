@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" filepath="$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Include01/Include01.iml" filepath="$PROJECT_DIR$/Include01/Include01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intent01/Intent01.iml" filepath="$PROJECT_DIR$/Intent01/Intent01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intent02/Intent02.iml" filepath="$PROJECT_DIR$/Intent02/Intent02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intent03/Intent03.iml" filepath="$PROJECT_DIR$/Intent03/Intent03.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayout01/LinearLayout01.iml" filepath="$PROJECT_DIR$/LinearLayout01/LinearLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayout02/LinearLayout02.iml" filepath="$PROJECT_DIR$/LinearLayout02/LinearLayout02.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayout03/LinearLayout03.iml" filepath="$PROJECT_DIR$/LinearLayout03/LinearLayout03.iml" />
