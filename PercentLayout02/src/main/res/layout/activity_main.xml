@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cn.percentlayout02.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        app:layout_widthPercent="70%"
+        app:layout_heightPercent="8%"
+        app:layout_marginTopPercent="5%"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:text="我们来一起学习Android开发"/>
+    <Button
+        android:id="@+id/button"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="11%"
+        android:text="在TextView下方的Button"
+        android:textColor="@android:color/holo_red_dark"
+        android:textAllCaps="false"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:id="@+id/tipsTextView"
+        android:layout_toRightOf="@id/button"
+        android:layout_marginLeft="20dp"
+        android:textSize="20sp"
+        android:layout_alignTop="@id/button"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="11%"
+        android:textColor="@android:color/holo_green_dark"
+        android:text="该TextView在Button的右边"/>
+
+
+    <Button
+        android:id="@+id/progressDialogButton"
+        app:layout_widthPercent="66%"
+        app:layout_heightPercent="11%"
+        android:text="在布局中间的Button"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        android:layout_centerInParent="true"/>
+
+</android.support.percent.PercentRelativeLayout>
