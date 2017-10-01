@@ -4,85 +4,49 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Activity01/Activity01.iml" filepath="$PROJECT_DIR$/Activity01/Activity01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activity02/Activity02.iml" filepath="$PROJECT_DIR$/Activity02/Activity02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Activity02/Activity02.iml" filepath="$PROJECT_DIR$/Activity02/Activity02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Activity03/Activity03.iml" filepath="$PROJECT_DIR$/Activity03/Activity03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Activity03/Activity03.iml" filepath="$PROJECT_DIR$/Activity03/Activity03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" filepath="$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" filepath="$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver01/BroadcastReceiver01.iml" filepath="$PROJECT_DIR$/BroadcastReceiver01/BroadcastReceiver01.iml" />
       <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver02/BroadcastReceiver02.iml" filepath="$PROJECT_DIR$/BroadcastReceiver02/BroadcastReceiver02.iml" />
       <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver03/BroadcastReceiver03.iml" filepath="$PROJECT_DIR$/BroadcastReceiver03/BroadcastReceiver03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Button01/Button01.iml" filepath="$PROJECT_DIR$/Button01/Button01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Button01/Button01.iml" filepath="$PROJECT_DIR$/Button01/Button01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CheckBox01/CheckBox01.iml" filepath="$PROJECT_DIR$/CheckBox01/CheckBox01.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckBox01/CheckBox01.iml" filepath="$PROJECT_DIR$/CheckBox01/CheckBox01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentProvider01/ContentProvider01.iml" filepath="$PROJECT_DIR$/ContentProvider01/ContentProvider01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ContentProvider01/ContentProvider01.iml" filepath="$PROJECT_DIR$/ContentProvider01/ContentProvider01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker01/DateAndTimePicker01.iml" filepath="$PROJECT_DIR$/DateAndTimePicker01/DateAndTimePicker01.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker01/DateAndTimePicker01.iml" filepath="$PROJECT_DIR$/DateAndTimePicker01/DateAndTimePicker01.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker02/DateAndTimePicker02.iml" filepath="$PROJECT_DIR$/DateAndTimePicker02/DateAndTimePicker02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker02/DateAndTimePicker02.iml" filepath="$PROJECT_DIR$/DateAndTimePicker02/DateAndTimePicker02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker03/DateAndTimePicker03.iml" filepath="$PROJECT_DIR$/DateAndTimePicker03/DateAndTimePicker03.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTimePicker03/DateAndTimePicker03.iml" filepath="$PROJECT_DIR$/DateAndTimePicker03/DateAndTimePicker03.iml" />
       <module fileurl="file://$PROJECT_DIR$/EditText01/EditText01.iml" filepath="$PROJECT_DIR$/EditText01/EditText01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EditText01/EditText01.iml" filepath="$PROJECT_DIR$/EditText01/EditText01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" filepath="$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" filepath="$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Handler01/Handler01.iml" filepath="$PROJECT_DIR$/Handler01/Handler01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Handler02/Handler02.iml" filepath="$PROJECT_DIR$/Handler02/Handler02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Include01/Include01.iml" filepath="$PROJECT_DIR$/Include01/Include01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Include01/Include01.iml" filepath="$PROJECT_DIR$/Include01/Include01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intent01/Intent01.iml" filepath="$PROJECT_DIR$/Intent01/Intent01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Intent01/Intent01.iml" filepath="$PROJECT_DIR$/Intent01/Intent01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Intent02/Intent02.iml" filepath="$PROJECT_DIR$/Intent02/Intent02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intent02/Intent02.iml" filepath="$PROJECT_DIR$/Intent02/Intent02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intent03/Intent03.iml" filepath="$PROJECT_DIR$/Intent03/Intent03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Intent03/Intent03.iml" filepath="$PROJECT_DIR$/Intent03/Intent03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LinearLayout01/LinearLayout01.iml" filepath="$PROJECT_DIR$/LinearLayout01/LinearLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayout01/LinearLayout01.iml" filepath="$PROJECT_DIR$/LinearLayout01/LinearLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayout02/LinearLayout02.iml" filepath="$PROJECT_DIR$/LinearLayout02/LinearLayout02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LinearLayout02/LinearLayout02.iml" filepath="$PROJECT_DIR$/LinearLayout02/LinearLayout02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LinearLayout03/LinearLayout03.iml" filepath="$PROJECT_DIR$/LinearLayout03/LinearLayout03.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayout03/LinearLayout03.iml" filepath="$PROJECT_DIR$/LinearLayout03/LinearLayout03.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListView01/ListView01.iml" filepath="$PROJECT_DIR$/ListView01/ListView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ListView01/ListView01.iml" filepath="$PROJECT_DIR$/ListView01/ListView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MediaPlayer01/MediaPlayer01.iml" filepath="$PROJECT_DIR$/MediaPlayer01/MediaPlayer01.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediaPlayer01/MediaPlayer01.iml" filepath="$PROJECT_DIR$/MediaPlayer01/MediaPlayer01.iml" />
       <module fileurl="file://$PROJECT_DIR$/PercentLayout01/PercentLayout01.iml" filepath="$PROJECT_DIR$/PercentLayout01/PercentLayout01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PercentLayout01/PercentLayout01.iml" filepath="$PROJECT_DIR$/PercentLayout01/PercentLayout01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PercentLayout02/PercentLayout02.iml" filepath="$PROJECT_DIR$/PercentLayout02/PercentLayout02.iml" />
       <module fileurl="file://$PROJECT_DIR$/PercentLayout02/PercentLayout02.iml" filepath="$PROJECT_DIR$/PercentLayout02/PercentLayout02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" filepath="$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" filepath="$PROJECT_DIR$/ProgressBar01/ProgressBar01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" filepath="$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" filepath="$PROJECT_DIR$/ProgressBar02/ProgressBar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" filepath="$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" filepath="$PROJECT_DIR$/ProgressDialog01/ProgressDialog01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RadioButton01/RadioButton01.iml" filepath="$PROJECT_DIR$/RadioButton01/RadioButton01.iml" />
       <module fileurl="file://$PROJECT_DIR$/RadioButton01/RadioButton01.iml" filepath="$PROJECT_DIR$/RadioButton01/RadioButton01.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" filepath="$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" filepath="$PROJECT_DIR$/RecyclerView01/RecyclerView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RelativeLayout01/RelativeLayout01.iml" filepath="$PROJECT_DIR$/RelativeLayout01/RelativeLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/RelativeLayout01/RelativeLayout01.iml" filepath="$PROJECT_DIR$/RelativeLayout01/RelativeLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" filepath="$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" filepath="$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScrollView01/ScrollView01.iml" filepath="$PROJECT_DIR$/ScrollView01/ScrollView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ScrollView01/ScrollView01.iml" filepath="$PROJECT_DIR$/ScrollView01/ScrollView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service01/Service01.iml" filepath="$PROJECT_DIR$/Service01/Service01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service02/Service02.iml" filepath="$PROJECT_DIR$/Service02/Service02.iml" />
       <module fileurl="file://$PROJECT_DIR$/SharedPreferences01/SharedPreferences01.iml" filepath="$PROJECT_DIR$/SharedPreferences01/SharedPreferences01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Style01/Style01.iml" filepath="$PROJECT_DIR$/Style01/Style01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Style01/Style01.iml" filepath="$PROJECT_DIR$/Style01/Style01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TextView01/TextView01.iml" filepath="$PROJECT_DIR$/TextView01/TextView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView01/TextView01.iml" filepath="$PROJECT_DIR$/TextView01/TextView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/VideoView01/VideoView01.iml" filepath="$PROJECT_DIR$/VideoView01/VideoView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VideoView01/VideoView01.iml" filepath="$PROJECT_DIR$/VideoView01/VideoView01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebView01/WebView01.iml" filepath="$PROJECT_DIR$/WebView01/WebView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebView01/WebView01.iml" filepath="$PROJECT_DIR$/WebView01/WebView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
