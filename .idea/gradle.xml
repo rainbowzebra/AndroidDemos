@@ -23,6 +23,8 @@
             <option value="$PROJECT_DIR$/DateAndTimePicker03" />
             <option value="$PROJECT_DIR$/EditText01" />
             <option value="$PROJECT_DIR$/FrameLayout01" />
+            <option value="$PROJECT_DIR$/Handler01" />
+            <option value="$PROJECT_DIR$/Handler02" />
             <option value="$PROJECT_DIR$/ImageView01" />
             <option value="$PROJECT_DIR$/Include01" />
             <option value="$PROJECT_DIR$/Intent01" />
@@ -46,6 +48,7 @@
             <option value="$PROJECT_DIR$/SeekBar01" />
             <option value="$PROJECT_DIR$/Service01" />
             <option value="$PROJECT_DIR$/Service02" />
+            <option value="$PROJECT_DIR$/SharedPreferences01" />
             <option value="$PROJECT_DIR$/Style01" />
             <option value="$PROJECT_DIR$/TextView01" />
             <option value="$PROJECT_DIR$/VideoView01" />

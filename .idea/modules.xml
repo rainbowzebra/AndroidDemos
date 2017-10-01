@@ -29,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/EditText01/EditText01.iml" filepath="$PROJECT_DIR$/EditText01/EditText01.iml" />
       <module fileurl="file://$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" filepath="$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" />
       <module fileurl="file://$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" filepath="$PROJECT_DIR$/FrameLayout01/FrameLayout01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handler01/Handler01.iml" filepath="$PROJECT_DIR$/Handler01/Handler01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handler02/Handler02.iml" filepath="$PROJECT_DIR$/Handler02/Handler02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImageView01/ImageView01.iml" filepath="$PROJECT_DIR$/ImageView01/ImageView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Include01/Include01.iml" filepath="$PROJECT_DIR$/Include01/Include01.iml" />
@@ -73,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service01/Service01.iml" filepath="$PROJECT_DIR$/Service01/Service01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service02/Service02.iml" filepath="$PROJECT_DIR$/Service02/Service02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferences01/SharedPreferences01.iml" filepath="$PROJECT_DIR$/SharedPreferences01/SharedPreferences01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Style01/Style01.iml" filepath="$PROJECT_DIR$/Style01/Style01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Style01/Style01.iml" filepath="$PROJECT_DIR$/Style01/Style01.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView01/TextView01.iml" filepath="$PROJECT_DIR$/TextView01/TextView01.iml" />
