@@ -1,0 +1,107 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dip"
+    android:paddingRight="20dip"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/tipButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SQLite数据库测试"
+        android:layout_marginTop="15dip"
+        android:clickable="false"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加数据"
+        android:layout_marginTop="15dip"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+    <Button
+        android:id="@+id/queryButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查找数据"
+        android:layout_marginTop="15dip"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+    <Button
+        android:id="@+id/updateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="更新数据"
+        android:layout_marginTop="15dip"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+    <Button
+        android:id="@+id/deleteButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="删除数据"
+        android:layout_marginTop="15dip"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+    <Button
+        android:id="@+id/countButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="统计数据"
+        android:layout_marginTop="15dip"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+    <Button
+        android:id="@+id/pageButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="数据分页"
+        android:layout_marginTop="15dip"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+    <Button
+        android:id="@+id/transactionButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="事务操作"
+        android:layout_marginTop="15dip"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="8dp"
+        />
+
+</LinearLayout>

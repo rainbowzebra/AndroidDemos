@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/Button01" />
             <option value="$PROJECT_DIR$/CheckBox01" />
             <option value="$PROJECT_DIR$/ContentProvider01" />
+            <option value="$PROJECT_DIR$/DataBase01" />
             <option value="$PROJECT_DIR$/DateAndTimePicker01" />
             <option value="$PROJECT_DIR$/DateAndTimePicker02" />
             <option value="$PROJECT_DIR$/DateAndTimePicker03" />
@@ -25,6 +26,7 @@
             <option value="$PROJECT_DIR$/FrameLayout01" />
             <option value="$PROJECT_DIR$/Handler01" />
             <option value="$PROJECT_DIR$/Handler02" />
+            <option value="$PROJECT_DIR$/HttpURLConnection01" />
             <option value="$PROJECT_DIR$/ImageView01" />
             <option value="$PROJECT_DIR$/Include01" />
             <option value="$PROJECT_DIR$/Intent01" />
@@ -35,6 +37,8 @@
             <option value="$PROJECT_DIR$/LinearLayout03" />
             <option value="$PROJECT_DIR$/ListView01" />
             <option value="$PROJECT_DIR$/MediaPlayer01" />
+            <option value="$PROJECT_DIR$/OKHttp01" />
+            <option value="$PROJECT_DIR$/OKHttp02" />
             <option value="$PROJECT_DIR$/PercentLayout01" />
             <option value="$PROJECT_DIR$/PercentLayout02" />
             <option value="$PROJECT_DIR$/ProgressBar01" />
@@ -50,6 +54,8 @@
             <option value="$PROJECT_DIR$/Service02" />
             <option value="$PROJECT_DIR$/SharedPreferences01" />
             <option value="$PROJECT_DIR$/Style01" />
+            <option value="$PROJECT_DIR$/SurfaceView01" />
+            <option value="$PROJECT_DIR$/SurfaceView02" />
             <option value="$PROJECT_DIR$/TextView01" />
             <option value="$PROJECT_DIR$/VideoView01" />
             <option value="$PROJECT_DIR$/WebView01" />
