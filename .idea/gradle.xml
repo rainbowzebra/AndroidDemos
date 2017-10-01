@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/Activity02" />
             <option value="$PROJECT_DIR$/Activity03" />
             <option value="$PROJECT_DIR$/AlertDialog01" />
+            <option value="$PROJECT_DIR$/BroadcastReceiver01" />
             <option value="$PROJECT_DIR$/Button01" />
             <option value="$PROJECT_DIR$/CheckBox01" />
             <option value="$PROJECT_DIR$/ContentProvider01" />
@@ -41,6 +42,8 @@
             <option value="$PROJECT_DIR$/RuntimePermission01" />
             <option value="$PROJECT_DIR$/ScrollView01" />
             <option value="$PROJECT_DIR$/SeekBar01" />
+            <option value="$PROJECT_DIR$/Service01" />
+            <option value="$PROJECT_DIR$/Service02" />
             <option value="$PROJECT_DIR$/Style01" />
             <option value="$PROJECT_DIR$/TextView01" />
             <option value="$PROJECT_DIR$/VideoView01" />

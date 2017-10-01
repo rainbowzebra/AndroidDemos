@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Activity03/Activity03.iml" filepath="$PROJECT_DIR$/Activity03/Activity03.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" filepath="$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver01/BroadcastReceiver01.iml" filepath="$PROJECT_DIR$/BroadcastReceiver01/BroadcastReceiver01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Button01/Button01.iml" filepath="$PROJECT_DIR$/Button01/Button01.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckBox01/CheckBox01.iml" filepath="$PROJECT_DIR$/CheckBox01/CheckBox01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentProvider01/ContentProvider01.iml" filepath="$PROJECT_DIR$/ContentProvider01/ContentProvider01.iml" />
@@ -36,6 +37,8 @@
       <module fileurl="file://$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" filepath="$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScrollView01/ScrollView01.iml" filepath="$PROJECT_DIR$/ScrollView01/ScrollView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service01/Service01.iml" filepath="$PROJECT_DIR$/Service01/Service01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service02/Service02.iml" filepath="$PROJECT_DIR$/Service02/Service02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Style01/Style01.iml" filepath="$PROJECT_DIR$/Style01/Style01.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView01/TextView01.iml" filepath="$PROJECT_DIR$/TextView01/TextView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/VideoView01/VideoView01.iml" filepath="$PROJECT_DIR$/VideoView01/VideoView01.iml" />
