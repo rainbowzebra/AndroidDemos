@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" filepath="$PROJECT_DIR$/AlertDialog01/AlertDialog01.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver01/BroadcastReceiver01.iml" filepath="$PROJECT_DIR$/BroadcastReceiver01/BroadcastReceiver01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver02/BroadcastReceiver02.iml" filepath="$PROJECT_DIR$/BroadcastReceiver02/BroadcastReceiver02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver03/BroadcastReceiver03.iml" filepath="$PROJECT_DIR$/BroadcastReceiver03/BroadcastReceiver03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Button01/Button01.iml" filepath="$PROJECT_DIR$/Button01/Button01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Button01/Button01.iml" filepath="$PROJECT_DIR$/Button01/Button01.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckBox01/CheckBox01.iml" filepath="$PROJECT_DIR$/CheckBox01/CheckBox01.iml" />
