@@ -46,6 +46,8 @@
       <module fileurl="file://$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" filepath="$PROJECT_DIR$/RuntimePermission01/RuntimePermission01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScrollView01/ScrollView01.iml" filepath="$PROJECT_DIR$/ScrollView01/ScrollView01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeekBar01/SeekBar01.iml" filepath="$PROJECT_DIR$/SeekBar01/SeekBar01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sensor01/Sensor01.iml" filepath="$PROJECT_DIR$/Sensor01/Sensor01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sensor02/Sensor02.iml" filepath="$PROJECT_DIR$/Sensor02/Sensor02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service01/Service01.iml" filepath="$PROJECT_DIR$/Service01/Service01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service02/Service02.iml" filepath="$PROJECT_DIR$/Service02/Service02.iml" />
       <module fileurl="file://$PROJECT_DIR$/SharedPreferences01/SharedPreferences01.iml" filepath="$PROJECT_DIR$/SharedPreferences01/SharedPreferences01.iml" />

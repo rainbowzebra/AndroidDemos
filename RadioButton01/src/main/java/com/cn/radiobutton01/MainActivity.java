@@ -27,9 +27,10 @@ public class MainActivity extends AppCompatActivity {
     private class CheckedChangeListenerImpl implements RadioGroup.OnCheckedChangeListener {
         @Override
         public void onCheckedChanged(RadioGroup group, int checkedId) {
-            RadioButton radioButton = (RadioButton) findViewById(checkedId);
+            RadioButton radioButton = (RadioButton) findViewById(group.getCheckedRadioButtonId());
             String currentSelected = radioButton.getText().toString();
             Toast.makeText(mContext,"现在选中是:" + currentSelected,Toast.LENGTH_SHORT).show();
         }
     }
+
 }

@@ -9,11 +9,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * 原创作者：谷哥的小弟
- * 博客地址：http://blog.csdn.net/lfdfhl
- */
-
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.RecyclerViewHolder> {
     private Context mContext;
     private List<String> mList;
