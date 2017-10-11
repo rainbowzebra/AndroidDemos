@@ -7,13 +7,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-public class AnotherActivity extends AppCompatActivity {
+public class ThirdActivity extends AppCompatActivity {
     private Button mButton;
     private Context mContext;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_another);
+        setContentView(R.layout.activity_third);
         init();
     }
 
@@ -28,9 +28,9 @@ public class AnotherActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent=new Intent(mContext,MainActivity.class);
-                intent.putExtra("name","一个小胖子");
-                intent.putExtra("age",23);
-                setResult(Constant.RESULT_CODE_ANOTHER,intent);
+                intent.putExtra("name","haipeng");
+                intent.putExtra("age",19);
+                setResult(Constant.RESULT_CODE_THIRD,intent);
                 finish();
             }
         });

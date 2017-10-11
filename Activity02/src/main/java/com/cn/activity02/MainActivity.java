@@ -9,7 +9,8 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    private Button mButton;
+    private Button mToAnotherActivityButton;
+    private Button mToThirdActivityButton;
     private Context mContext;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,11 +21,18 @@ public class MainActivity extends AppCompatActivity {
 
     private void init(){
         mContext=this;
-        mButton=(Button)findViewById(R.id.button);
-        mButton.setOnClickListener(new View.OnClickListener() {
+        mToAnotherActivityButton =(Button)findViewById(R.id.toAnotherActivityButton);
+        mToAnotherActivityButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                testStartActivityForResult();
+                toAnotherActivity();
+            }
+        });
+        mToThirdActivityButton= (Button) findViewById(R.id.toThirdActivityButton);
+        mToThirdActivityButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toThirdActivity();
             }
         });
     }
@@ -39,9 +47,14 @@ public class MainActivity extends AppCompatActivity {
      * 调用startActivityForResult()方法.所以为了区分每次
      * startActivityForResult()的操作为其设置一个requestCode
      */
-    private void testStartActivityForResult(){
+    private void toAnotherActivity(){
         Intent intent=new Intent(mContext,AnotherActivity.class);
-        startActivityForResult(intent,Constant.REQUEST_CODE_TEST);
+        startActivityForResult(intent,Constant.REQUEST_CODE_ANOTHER);
+    }
+
+    private void toThirdActivity(){
+        Intent intent=new Intent(mContext,ThirdActivity.class);
+        startActivityForResult(intent,Constant.REQUEST_CODE_THIRD);
     }
 
     /**
@@ -57,12 +70,21 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        if(requestCode==Constant.REQUEST_CODE_TEST){
-            if(resultCode==Constant.RESULT_CODE_TEST){
+        if(requestCode==Constant.REQUEST_CODE_ANOTHER){
+            if(resultCode==Constant.RESULT_CODE_ANOTHER){
                 String name=data.getStringExtra("name");
                 int age=data.getIntExtra("age",0);
                 Log.i(Constant.TAG,"name="+name+",age="+age);
             }
         }
+
+        if(requestCode==Constant.REQUEST_CODE_THIRD){
+            if(resultCode==Constant.RESULT_CODE_THIRD){
+                String name=data.getStringExtra("name");
+                int age=data.getIntExtra("age",0);
+                Log.i(Constant.TAG,"name="+name+",age="+age);
+            }
+        }
+
     }
 }

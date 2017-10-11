@@ -5,7 +5,7 @@
     >
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/toAnotherActivityButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="To Another Activity"
@@ -14,6 +14,23 @@
         android:textColor="@android:color/white"
         android:textSize="25sp"
         android:padding="5dp"
-        android:layout_centerInParent="true"/>
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"/>
+
+
+    <Button
+        android:id="@+id/toThirdActivityButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toAnotherActivityButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:text="To Third Activity"
+        android:textAllCaps="false"
+        android:background="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:padding="5dp"
+        />
 
 </RelativeLayout>

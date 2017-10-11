@@ -30,7 +30,7 @@ public class AnotherActivity extends AppCompatActivity {
                 finish();
             }
         });
-        testIntent2();
+        testIntent3();
     }
 
     private void testIntent1(){

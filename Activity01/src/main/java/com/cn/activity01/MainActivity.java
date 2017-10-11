@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                testIntent2();
+                testIntent3();
             }
         });
     }
@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
         Student student2=new Student();
         student2.setName("xiaoming");
         student2.setAge(18);
+
         arrayList.add(student1);
         arrayList.add(student2);
 
